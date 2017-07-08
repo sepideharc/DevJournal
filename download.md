@@ -31,12 +31,10 @@ permalink: /download/
     <p>
       Hello there! :)
       <br />
-      <br /> Hemang here, developer of <span class="small-site-title">DevJournal</span> theme.
-      <br /> I'm a CS sophomore at USICT, New Delhi.
+   
       <br />
       <br />
-      <a href="http://facebook.com/hemangkr"><i class="fa fa-facebook"></i></a> &nbsp; &nbsp; &nbsp;<a href="http://github.com/hemangsk"><i class="fa fa-github"></i></a>
-    </p>
+      <a href=http://www.huffingtonpost.com/author/sepideh-arcangeli-989
   </div>
 
 </div>
