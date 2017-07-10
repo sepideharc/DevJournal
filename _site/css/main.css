@@ -3,7 +3,7 @@
   border: none !important; }
 
 .navbar-default .navbar-nav > li > a {
-  color: #3498DB !important; }
+  color: #48C9B0 !important; }
 
 .navbar-default .navbar-nav > li > a:hover {
   color: #03a4fb !important; }
@@ -34,7 +34,7 @@ body {
     color: #3498DB !important;
     background-color: #2E86C1 !important;
     font-family: "Fira Mono" !important;
-    color: #2E86C1 !important; }
+    color: #3498DB  !important; }
   .page-stuff .page-stuff a {
     color: #A569BD !important;
     text-decoration: none; }
