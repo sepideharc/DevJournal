@@ -4,45 +4,33 @@
 @charset "utf-8";
 
 .navbar-default{
-<<<<<<< HEAD
   background:#EEF1EC !important;
-=======
-  background:#16A085 !important;
->>>>>>> 0ee8ceb638e432fdb04749e1c2ae25061090f8b6
   border: none !important;
 
 }
 
 .navbar-default .navbar-nav > li > a{
-<<<<<<< HEAD
     color:#3498DB !important;
-=======
-    color:#42f48f !important;
->>>>>>> 0ee8ceb638e432fdb04749e1c2ae25061090f8b6
+    
 }
 .navbar-default .navbar-nav > li > a:hover{
     color:#03a4fb !important;
 
 }
 .navbar-default .navbar-nav > li > a:focus{
-<<<<<<< HEAD
     color:#3498DB !important;
 }
 .navbar-default .navbar-brand{
   color:#3498DB !important;
-=======
-    color:#A569BD !important;
 }
 .navbar-default .navbar-brand{
   color:#2E86C1 !important;
->>>>>>> 0ee8ceb638e432fdb04749e1c2ae25061090f8b6
 }
 .footer-content{
   text-align: left;
   padding: 0.5em;
 }
 body{
-<<<<<<< HEAD
   background-color: #ECF0F1 !important;
   font-family: "Fira Mono" !important;
   color: #3498DB  !important;
@@ -50,15 +38,13 @@ body{
 .page-stuff{
   a {
     color: #3498DB !important;
-=======
   background-color: #2E86C1 !important;
   font-family: "Fira Mono" !important;
-  color: #2E86C1 !important;
+  color: #3498DB  !important;
 }
 .page-stuff{
   a {
     color:#A569BD !important;
->>>>>>> 0ee8ceb638e432fdb04749e1c2ae25061090f8b6
     text-decoration: none;
       &:hover{
         color:#2E86C1 !important;
@@ -217,6 +203,6 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "syntax-highlighting"
-;
+  @import "syntax-highlighting";
+  
+}
