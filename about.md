@@ -4,34 +4,15 @@ title: About
 permalink: /about/
 ---
 <div class="man-title">
-  UP AND RUNNING WITH DevJournal
+  Sepideh Saeedi is an Iranian archaeologist. She received her B.A and M.A. in archeology from the University of Tehran. During her years at the University of Tehran, she established and directed the "Society for Dialogue among Civilizations".She was also active in other non governmental organizations advocating for women's and young girls rights. She received her Ph.D in 2015 from the department of anthropology at the State University of New York at Binghamton. She now is an affiliated research associate with this department. Her doctoral dissertation was a comparative study and studied the process of community constitution in multiple sites on the Iranian plateau during the Early Bronze Age. She has done archaeological and anthropological fieldwork in Iran and the United States, has published articles and presented papers in international conferences on topics related to the Iranian archaeology. She has also collaborated with the School of Conflict Analysis and Conflict Resolution at George Mason University in a peace building project.
 </div>
 <div class="manual manual-title">
   Posting
   </div>
 <p>  <div class="manual-content">
 
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br />
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br />
-      &nbsp;&nbsp;&nbsp;<code>2016-03-30-i-love-design.markdown</code><br />
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br><br>
-      <div class="example">
-
-        <div class="highlight">
-        <pre>
-          ---
-          layout: post | default | page
-          title:  String<span class="hint"> Post Title</span>
-          date:   Time Stamp
-          categories: String | Array of Strings<span class="hint"> Category / Categories </span>
-          ---
-        </pre>
-        </div>
-
-      </div>
-      <div class="example">
-        <div class="highlight">
-        <pre>
+     
+         
         ---
         layout: post
         title:  "The One with the Blackout"
