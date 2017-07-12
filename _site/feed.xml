@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sepideh saeedi</title>
-    <description>&lt;h3&gt;Hello, world!&lt;/h3&gt;&lt;h1&gt;DSepideh Journal&lt;/h1&gt;&lt;h3&gt;&lt;/h3&gt;Hope you like it!</description>
+    <description>&lt;h3&gt;Hello, world!&lt;/h3&gt;&lt;h1&gt;Sepideh Journal&lt;/h1&gt;&lt;h3&gt;&lt;/h3&gt;Hope you like it!</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 10 Jul 2017 15:59:11 -0400</pubDate>
