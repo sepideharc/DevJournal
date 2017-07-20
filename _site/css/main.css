@@ -24,7 +24,7 @@
 body {
   background-color: #8A446A  !important;
   font-family: "Fira Mono" !important;
-  color: #3498DB  !important; }
+  color: #76448A   !important; }
 
 .page-stuff {
   /**
@@ -36,7 +36,7 @@ body {
     font-family: "Fira Mono" !important;
     color: #3498DB  !important; }
   .page-stuff .page-stuff a {
-    color: #A569BD !important;
+    color: #76448A  !important;
     text-decoration: none; }
     .page-stuff .page-stuff a:hover {
       color: #2E86C1 !important;
